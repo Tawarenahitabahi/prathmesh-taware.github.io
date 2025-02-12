@@ -1,18 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Prathmesh Taware | Personal Website</title>
-    <style>
-        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f4f4f4; }
-        header { background: #333; color: #fff; padding: 20px; text-align: center; }
-        .container { width: 80%; margin: auto; overflow: hidden; padding: 20px; background: #fff; }
-        h1, h2 { color: #333; }
-        ul { list-style: none; padding: 0; }
-        ul li { padding: 10px; border-bottom: 1px solid #ddd; }
-        .contact { background: #ddd; padding: 10px; text-align: center; }
-    </style>
 </head>
 <body>
     <header>
